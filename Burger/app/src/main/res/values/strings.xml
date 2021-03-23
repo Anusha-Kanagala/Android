@@ -1,0 +1,15 @@
+<resources>
+    <string name="dadsBurger">Burger</string>
+    <string name="beefLabel">Beef Patty</string>
+    <string name="turkeyLabel">Turkey Patty</string>
+    <string name="veggieLabel">Veggie Patty</string>
+    <string name="baconLabel_">Bacon</string>
+    <string name="bacon_Label">Bacon</string>
+    <string name="baconLabel">Bacon</string>
+    <string name="noCheeseLabel">No Cheese</string>
+    <string name="sauceLabel">Special Sauce - up to one teaspoon</string>
+    <string name="cheddarLabel">Cheddar</string>
+    <string name="mozzLabel">Mozzarella</string>
+    <string name="calorieLabel">Calories:</string>
+    <string name="bottombun">TODO</string>
+</resources>

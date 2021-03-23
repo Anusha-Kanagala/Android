@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">DessertRecipes</string>
+    <string name="cake_recipes">Cake Recipes</string>
+    <string name="choose_a_dish">Choose a dish:</string>
+    <string name="todo">TODO</string>
+    <string name="recipe_name">TextView</string>
+    <string name="go_back_to_choices">GO BACK TO CHOICES</string>
+    <string name="go_to_recipe">Go To Recipe</string>
+    <string-array name="Dessert_items">
+        <item> Vanilla cake</item>
+        <item> Red velvet cake</item>
+        <item> Chocolate ombre cake</item>
+        <item> Carrot cake</item>
+        <item> Brownie</item>
+    </string-array>
+    <string name="tab">\u0009\u0009\u0009\u0009</string>
+    <string name="VanillaCake_Recipe">
+        \n
+        \nIngredients: \n\n
+         \t\t\t\t1 cup oil\n\t\t\t\t2 cups all-purpose flour\n\t\t\t\t3 tspn baking powder\n\t\t\t\t1/4 tspn baking soda\n\t\t\t\t1 1/2 cups sugar\n\t\t\t\t4 eggs\n\t\t\t\t1 tablespoon vanilla extract\n\t\t\t\t1/2 cup whole milk\n\t\t\t\t1 tablespoon white vinegar\n
+        \n
+        Directions: \n\n
+        \t\t\t\t1)Preheat the oven to 350 degrees F. Oil one 8-inch-round cake pan or two 6 inch round pans(make sure to fill pan 2/3 only) and dust the pan with flour, tapping out the excess\n\n
+        \t\t\t\t2)Sift and whisk flour, the baking powder and soda in a bowl until combined. Beat eggs until fluffy and pale then add vanilla essence, in a large bowl with a mixer on medium-high speed\n\n
+        \t\t\t\t3)Then add sugar and beat well , in the end add oil and mix very well. Beat in the flour mixture in 2 batches, adding the milk in between, beginning and ending with flour, until just smooth. Then add vinegar in the end and mix again until combined.\n\n
+        \t\t\t\t4)Pour the batter in prepared pan. Bake until the cakes are golden on top for 30 to 35 minutes\n
+        \n\n\n
+    </string>
+    <string name="redvelvet_Recipe"> \n Ingredients
+        \n \n
+        Cake Batter:\n\n
+        \t\t\t\t2 2/3 cups cake flour \n\t\t\t\t2 tbsp unsweetened cocoa powder \n\t\t\t\t 1 tsp baking soda \n\t\t\t\t 1 tsp (salt \n\t\t\t\t 1/2 cup unsalted butter \n\t\t\t\t 1 1/2 cup sugar \n\t\t\t\t 2 eggs \n\t\t\t\t 1 cup vegetable oil \n\t\t\t\t 1 tsp white vinegar \n\t\t\t\t 2 tsp vanilla extract \n\t\t\t\t 1 cup buttermilk \n\t\t\t\t 1- 2 oz red food coloring gel
+        \n\n
+        Cream Cheese Frosting: \n\n
+        \t\t\t\t17 oz cream cheese\n\t\t\t\t1 1/3 cup heavy whipping cream \n\t\t\t\t1 tsp vanilla extract\n\t\t\t\t1 1/4 cup powdered sugar
+        \n\n
+        Directions: \n\n
+        \t\t\t\t1)Preheat oven to 350F (180C). Grease with butter and dust with flour two 9 inch round cake pans. \n\n
+        \t\t\t\t2)In a large bowl sift together the flour, cocoa powder, baking soda and salt and whisk to combine. \n\n
+        \t\t\t\t3)In another bowl mix butter with sugar until combined. Incorporate eggs one at a time. Mix in oil, vinegar,vanilla extract and buttermilk. Incorporate flour mixture until well combined. \n\n
+        \t\t\t\t4)Gradually add red food coloring until the desired color is reached. Pour the batter evenly into the prepared pans and bake for 30 mins. \n\n
+        \t\t\t\t5)Let pans cool on a cooling rack for 10 minutes. Remove the cakes from the pan and let them cool completely. \n\n
+        \t\t\t\t6)Prepare the frosting. In a bowl sift the powdered sugar. Beat the cream cheese with powdered sugar and vanilla extract until smooth. \n\n
+        \t\t\t\t7)In another bowl whip the cream until stiff peaks form. Gradually fold into the cream cheese mixture until well combined.\n\n
+        \t\t\t\t8)Assemble the cake. Cut the tops of the cakes to create flat surfaces. Make crumbs out of the left pieces of cake and set aside. \n\n
+        \t\t\t\t9)Place 1 cake layer on your serving plate. Spread evenly with a bit less than half of frosting. Add the second layer of cake. Gradually spread the remaining frosting on top and sides of the cake. \n\n
+        \t\t\t\t10)Decorate the cake with remained cake crumbs if desired. The cake is ready to serve. \n\n\n\n
+    </string>
+    <string name="chocolateOmbre_Recipe"> \n Ingredients \n\n
+        \t\t\t\t25g cocoa powder \n\t\t\t\t50g sugar \n\t\t\t\t50g boiling water \n\t\t\t\t1/2 tsp vanilla \n\t\t\t\t1/3 tsp baking soda \n\t\t\t\t120g plain flour \n\t\t\t\t100g cake flour \n\t\t\t\t2 tsp baking powder \n\t\t\t\t250g salted butter \n\t\t\t\t160g sugar \n\t\t\t\t4 large eggs \n\t\t\t\t1/2 tsp vanilla extract \n\t\t\t\t75ml milk\n
+        \n
+        Directions: \n\n
+        \t\t\t\t1)Pour boiling water into cocoa powder. Stir until smooth. Add in sugar , vanilla and baking soda and stir until smooth. Set aside.\n\n
+        \t\t\t\t2)Preheat oven at 180C. Prepare an 8 inch square pan, grease the sides and line the base.\n\n
+        \t\t\t\t3)Cream butter with sugar until light and fluffy. Beat in eggs , one by one, until smooth and well incorporated.  Beat in vanilla.\n\n
+        \t\t\t\t4)Add half the sifted flour, and beat on low speed. Add in milk and beat until incorporated. Add in remaining flour and beat on low speed until smooth.\n\n
+        \t\t\t\t5)Measure out 325g of batter and put it into the cocoa mixture. Stir until smooth. Spoon 325g of the cocoa batter into the prepared pan. Level and knock it on the counter twice.\n\n
+        \t\t\t\t6)With the remaining cocoa mixture, add in 225g of batter and mix until combined. Gently spoon this onto the dark cocoa layer. Level and knock it on the counter twice.\n\n
+        \t\t\t\t7)Spoon remaining batter into the pan. Level and knock it once. Bake for 1 hour or until skewer comes out clean. \n\n
+        \t\t\t\t8)Remove from cake pan and slice when Cake has totally cooled down. \n\n\n\n
+    </string>
+    <string name="carrotCake_Recipe"> \n Ingredients \n\n
+        \t\t\t\t2 cups all-purpose flour \n\t\t\t\t2 teaspoons baking powder \n\t\t\t\t2 teaspoons baking soda \n\t\t\t\t1/2 teaspoon salt \n\t\t\t\t2 teaspoons ground cinnamon \n\t\t\t\t2 cups white sugar \n\t\t\t\t4 large eggs \n\t\t\t\t1 1/3 cups vegetable oil \n\t\t\t\t4 cups grated carrots \n\t\t\t\t3/4 cup chopped walnuts \n\n
+        Directions: \n\n
+        \t\t\t\t1)Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan. Sift together the flour, baking powder, baking soda, salt and cinnamon. Set aside.\n\n
+        \t\t\t\t2)In a large bowl, mix together the sugar and eggs until thick and pale. Stir in the oil, then gradually mix in the sifted dry ingredients. Fold in the carrots and nuts. Spread evenly into the prepared pan.\n\n
+        \t\t\t\t3)Bake for 40 to 45 minutes in the preheated oven, or until a toothpick inserted into the cake comes out clean. When cool, frost with your favorite Cream Cheese Frosting.\n\n
+        \n\n
+    </string>
+    <string name="brownies_Recipe"> \n Ingredients \n\n
+        \t\t\t\t1 cup butter, melted \n\t\t\t\t2 cups white sugar \n\t\t\t\t1/2 cup cocoa powder \n\t\t\t\t1 teaspoon vanilla extract \n\t\t\t\t4 large eggs\n\t\t\t\t1 1/2 cups all-purpose flour \n\t\t\t\t1/2 teaspoon baking powder \n\t\t\t\t1/2 teaspoon salt \n\t\t\t\t1/2 cup walnut halves \n\n
+        Directions: \n\n
+        \t\t\t\t1)Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch pan.\n\n
+        \t\t\t\t2)Combine the melted butter, sugar, cocoa powder, vanilla, eggs, flour, baking powder, and salt. Spread the batter into the prepared pan. Decorate with walnut halves.\n\n
+        \t\t\t\t3)Bake in preheated oven for 20 to 30 minutes or until a toothpick inserted in the center comes out with crumbs, not wet. Cool on wire rack.\n\n
+        \n\n
+    </string>
+
+</resources>

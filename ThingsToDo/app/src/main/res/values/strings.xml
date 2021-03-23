@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ThingsToDo</string>
+    <string name="todo">TODO</string>
+    <string name="add_to_list">add to list</string>
+    <string name="delete">delete</string>
+    <string name="allmenu">allmenu</string>
+    <string name="items_to_add">Items To Add</string>
+    <string name="add">Add</string>
+    <string name="Back">Back</string>
+    <string name="your_list">Your List:</string>
+    <string name="back">Back</string>
+    <string name="delete_All">Delete All</string>
+</resources>

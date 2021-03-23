@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quadratic Equation Calculator</string>
+    <string name="value_a">Enter a value for \'a\'</string>
+    <string name="value_b">Enter a value for \'b\'</string>
+    <string name="value_c">Enter a value for \'c\'</string>
+    <string name="hint_a">non zero value</string>
+    <string name="hint_b">any signed numeric value</string>
+    <string name="hint_c">any signed numeric value</string>
+    <string name="calculate">CALCULATE X</string>
+    <string name="clear_all">CLEAR</string>
+    <string name="value_x">Root x1</string>
+    <string name="value_x2">Root x2</string>
+</resources>

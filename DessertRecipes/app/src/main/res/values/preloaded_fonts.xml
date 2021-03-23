@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/allan</item>
+        <item>@font/amarante</item>
+        <item>@font/bad_script</item>
+        <item>@font/comfortaa</item>
+        <item>@font/condiment</item>
+        <item>@font/shadows_into_light</item>
+    </array>
+</resources>
